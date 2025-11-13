@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcute-cat-gifs&psig=AOvVaw0eFkBhMLi4-enBM62Mgeyy&ust=1763090190628000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCM5PyU7pADFQAAAAAdAAAAABAX)"  />
+  <img height="150" src="[https://media1.tenor.com/m/_WZy7E7hoTcAAAAd/cat-smile.gif]"  />
 </div>
 
 ###
