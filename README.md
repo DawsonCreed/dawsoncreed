@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">sup👋</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Dawson from San Francisco, California<br><br>- 🔭 I’m working as a software engineer.<br>- 📚 I'm currently learning JS, CSS, & HTML<br>- ⚡ In my free time I work on @Clarity3090</p>
+<p align="left">I'm Dawson from San Francisco, California<br><br>- 🔭 I’m working as a software engineer.<br>- 📚 I'm currently learning JS, CSS, & HTML<br>- ⚡ In my free time I work on @Clarity3090 and listen to music.<p>
 
 ###
 
